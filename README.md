@@ -15,4 +15,4 @@ Feel free to explore the repository to get a deeper understanding of our develop
 
 Thank you for visiting the Cybros Technology repository. I am excited to showcase my HTML and Vanilla CSS skills.
 
-# [Visit Stite](https://sheharyar0503.github.io/cybros-tech-website/index.html) 
+# [Visit Stite](https://sheharyar0503.github.io/Cybros-Website/index.html) 
